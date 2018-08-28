@@ -1,5 +1,7 @@
 # mni-mayek
 
+# :earth_asia: 
+
 IBus input table for Manipuri language using Meetei Mayek script.
 
 # Custom install instructions
