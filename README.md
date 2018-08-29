@@ -64,6 +64,7 @@ Use `Super` + `Space` to switch between the input sources.
 
 NB: Not all applications support input using IBus.
 
-# Package
+# TODOS
 
-TODO: Create package for Ubuntu
+* Update mappings to include Unicode extensions
+* Package for Ubuntu
