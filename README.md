@@ -4,36 +4,45 @@
 
 IBus input table for Manipuri language using Meetei Mayek script.
 
+# Language and script codes
+
+| Name        | Code | Standard |
+|-------------|------|----------|
+|Manipuri     | mni  | ISO 639-2, ISO 639-3 |
+|Old Manipuri | omp  | ISO 639-3 |
+|Meetei Mayek | mtei | ISO 15924 |
+
+
 ## Mappings
 
 | Mayek | Keys | Mayek | Keys | Mayek | Keys |
 |:-----:|:----:|:-----:|:----:|:-----:|:----:|
-| ꯀ      | k    | ꯛ     | K    |  ꯣ      | o   |
-| ꯁ      | s    |       |      |  ꯤ     | i   |
-| ꯂ      | l    | ꯜ     | L     |  ꯥ     | a   |
-| ꯃ      | m    | ꯝ     | M     | ꯦ     | e   |
-| ꯄ      | p    | ꯞ     | P     |  ꯨ     | u   |
+| ꯀ      | k    | ꯛ     | K    |  ꯣ    | o   |
+| ꯁ      | s    |        |      |  ꯤ   | i   |
+| ꯂ      | l    | ꯜ     | L     |  ꯥ    | a   |
+| ꯃ      | m    | ꯝ     | M     | ꯦ    | e   |
+| ꯄ      | p    | ꯞ     | P     |  ꯨ    | u   |
 | ꯅ      | n    | ꯟ     | N     | ꯩ     |  ou  |
-| ꯆ      | ch   |      |       | ꯪ     | ngg  |
+| ꯆ      | ch   |       |       | ꯪ     | ngg  |
 | ꯇ      | t    | ꯠ     | T     | ꯫    | CH   |
-| ꯈ      | kh   |      |       |   ꯭    | APUN  |
-| ꯉ      | ng   | ꯡ     | NG    | ꯬     | LUM |
-| ꯊ      | th   |      |       | ꯰    |  0   |
-| ꯋ      | w    |      |       | ꯱    |  1   |
-| ꯌ      | y    |      |       | ꯲    |  2   |
-| ꯍ      | h    |      |       | ꯳    |  3   |
-| ꯎ      | uu   |      |       | ꯴    |  4   |
-| ꯏ      | ee   | ꯢ     | EE    | ꯵   | 5    |
-| ꯐ      | f    |      |       | ꯶    |  6   |
-| ꯑ      | aa   |      |       | ꯷    |   7   |
-| ꯒ      | g    |      |       | ꯸    |    8  |
-| ꯓ      | z    |      |       | ꯹    |    9  |
-| ꯔ      | r    |      |       |     |     |
-| ꯕ      | b    |      |       |     |     |
-| ꯖ      | j    |      |       |     |     |
-| ꯗ      | gh   |      |       |     |     |
-| ꯘ      | dh   |      |       |     |     |
-| ꯚ      | v    |      |       |     |     |
+| ꯈ      | kh   |       |       |   ꯭   | APUN  |
+| ꯉ      | ng   | ꯡ     | NG    | ꯬     | LUM  |
+| ꯊ      | th   |       |       | ꯰    |  0   |
+| ꯋ      | w    |       |       | ꯱    |  1   |
+| ꯌ      | y    |       |       | ꯲    |  2   |
+| ꯍ      | h    |       |       | ꯳    |  3   |
+| ꯎ      | uu   |       |       | ꯴    |  4   |
+| ꯏ      | ee   | ꯢ     | EE    | ꯵    | 5    |
+| ꯐ      | f    |       |       | ꯶    |  6   |
+| ꯑ      | aa   |       |       | ꯷    |   7   |
+| ꯒ      | g    |       |       | ꯸    |    8  |
+| ꯓ      | z    |       |       | ꯹    |    9  |
+| ꯔ      | r    |       |       |     |     |
+| ꯕ      | b    |       |       |     |     |
+| ꯖ      | j    |       |       |     |     |
+| ꯗ      | gh   |       |       |     |     |
+| ꯘ      | dh   |       |       |     |     |
+| ꯚ      | v    |       |       |     |     |
 
 
 # Custom install instructions
