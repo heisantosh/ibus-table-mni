@@ -48,7 +48,6 @@ Follow the instructions on the IBus github wiki at [https://github.com/ibus/ibus
 $ DATA_DIR=/usr/share
 $ sudo ibus-table-createdb -n ${DATADIR}/ibus-table/tables/mni-mayek.db -s mni-mayek.txt
 $ sudo cp mni-mayek.svg ${DATADIR}/ibus-table/icons/ 
-$ # Restart IBus
 $ ibus-daemon -drx
 ```
 
@@ -66,5 +65,13 @@ NB: Not all applications support input using IBus.
 
 # TODOS
 
+* Improve ease of use of the mappings
 * Update mappings to include Unicode extensions
 * Package for Ubuntu
+
+
+# References
+
+* Unicode code table for Meetei Mayek: [https://unicode.org/charts/PDF/UABC0.pdf](https://unicode.org/charts/PDF/UABC0.pdf)
+* Unicode code table for Meetei Mayek Extensions: [https://unicode.org/charts/PDF/UAAE0.pdf](https://unicode.org/charts/PDF/UAAE0.pdf)
+* Scriptsource: [http://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Mtei](http://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Mtei)
