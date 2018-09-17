@@ -4,6 +4,10 @@
 
 IBus input table for Manipuri language using Meetei Mayek script.
 
+
+![](https://raw.githubusercontent.com/mubitosh/ibus-table-mni/master/demo.gif)
+
+
 # Language and script codes
 
 | Name        | Code | Standard |
