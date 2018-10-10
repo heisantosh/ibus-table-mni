@@ -150,7 +150,7 @@ a	ꯥ	2
 e	ꯦ	2
 ou	ꯧ	2
 u	ꯨ	2
-ei	ꯩ 	2
+ei	ꯩ	2
 ngg	ꯪ 	1
 CH	꯫	0
 LUM	꯬	0
